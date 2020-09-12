@@ -66,6 +66,12 @@ P.S Для загрузки файла на пк, отправьте его мн
 
 ------
 
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/Daniel3k00/PRNKBT.svg)](https://starchart.cc/Daniel3k00/PRNKBT)
+
+------
+
 ## 📝 License
 
 Copyright © 2020 [Daniel_3k00](https://github.com/Daniel3k00).<br />

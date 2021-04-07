@@ -74,5 +74,5 @@ P.S Для загрузки файла на пк, отправьте его мн
 
 ## 📝 License
 
-Copyright © 2020 [Daniel_3k00](https://github.com/Daniel3k00).<br />
-This project is [MIT](https://github.com/Daniel3k00/PRNKBT/master/LICENSE) licensed.
+Copyright © 2021 [D4n13l3k00](https://github.com/D4n13l3k00).<br />
+This project is [MIT](https://github.com/D4n13l3k00/PRNKBT/master/LICENSE) licensed.
